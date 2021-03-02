@@ -1732,7 +1732,7 @@ section {
   background: #1c84e3;
 }
 
-#footer .credits {
+.credits {
   padding-top: 5px;
   font-size: 10px;
   display: none;
