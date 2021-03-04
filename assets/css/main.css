@@ -12,6 +12,14 @@
   margin-top: 120px;
 }
 
+.services .icon-box h4 {
+  color: #2c4964;
+}
+
+.services .icon-box p {
+  color: #444;
+}
+
 #credits {
   margin-top: 5px;
 }
